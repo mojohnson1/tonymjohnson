@@ -1,0 +1,26 @@
+{
+  "name": "tmjohnson_site",
+  "version": "1.0.0",
+  "description": "personal site",
+  "main": "tmjohnson.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojohnson1/tonymjohnson.git"
+  },
+  "keywords": [
+    "tony"
+  ],
+  "author": "Tony M Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojohnson1/tonymjohnson/issues"
+  },
+  "homepage": "https://github.com/mojohnson1/tonymjohnson#readme"
+}
